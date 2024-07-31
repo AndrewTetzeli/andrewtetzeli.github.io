@@ -9,3 +9,5 @@ My providing bespoke software development and other IT solutions, including sysa
 I have a blend of formal education and self-taught expertise in information technology. I am a graduate of a prestigious American university and law school. For many years I handled complex commercial and banking litigation. I transitioned from a legal career in 1998. I have held roles as executive director, regional director, and grant writer for various NGOs. I am also fully fluent in Spanish.
 
 To contact me, please go to <https://andrewtetzeli.com/contact.html>.
+
+The GitHub repository for this GitHub Page is <https://github.com/AndrewTetzeli>.
